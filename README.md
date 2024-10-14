@@ -11,13 +11,13 @@ developer: https://t.me/pysmart 👨‍💻
 
 # report app supports:
 
-🏆 Telegram
+> Telegram
 
-🏆 Instagram 
+> Instagram 
 
-🏆 TikTok 
+> TikTok 
 
-🏆 Twitter 
+> Twitter 
 
 Do not sell this tool!
 
