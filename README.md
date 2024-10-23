@@ -32,7 +32,7 @@ https://t.me/pysmart
 
 ⚙️ app sessions 
 
-⚙️ residential proxies
+⚙️ HTTPS proxies
 
 developer: https://t.me/pysmart
 
