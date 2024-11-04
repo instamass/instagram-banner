@@ -17,7 +17,9 @@ developer: https://t.me/pysmart 👨‍💻
 
 > TikTok 
 
-> Twitter 
+> Twitter
+
+> Snapchat
 
 Do not sell this tool!
 
