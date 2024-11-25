@@ -38,7 +38,7 @@ https://t.me/pysmart
 
 developer: https://t.me/pysmart
 
-developed with python3
+developed with python 3
 
 
 
