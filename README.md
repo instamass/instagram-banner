@@ -41,4 +41,4 @@ developer: https://t.me/pysmart
 software developed with python version 3
 
 # INSTAGRAM REPORT TOOL
-
+Insstagram ban tool
