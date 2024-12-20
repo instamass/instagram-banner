@@ -5,7 +5,7 @@ REPORT APP V2.0.0
 
 for windows pc and macbook 
 
-developer: https://t.me/pysmart 👨‍💻
+developer: https://t.me/profcoders
 
 ![3538EC03-31A1-4C43-934D-F2534910A00D_1_105_c](https://github.com/user-attachments/assets/29bf00fb-b4fa-428c-b3b4-74ae598c5947)
 
@@ -26,7 +26,7 @@ Do not sell this tool!
 You’re free to message me for full guide! 
 
 TEAM GROUP 👇
-https://t.me/pysmart
+https://t.me/profcoders
 
 # requirements:
 
@@ -36,7 +36,7 @@ https://t.me/pysmart
 
 ⚙️ HTTPS proxies
 
-developer: https://t.me/pysmart
+developer: https://t.me/profcoders
 
 software developed with python version 3
 
