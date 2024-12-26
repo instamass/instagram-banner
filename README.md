@@ -44,3 +44,4 @@ software developed with python version 3
 Instagram ban tool
 INSTAGRAM REPORT TOOL
 INSTAGRAM MASS REPORT TOOL
+IG REPORT TOOL
